@@ -1,0 +1,23 @@
+body{
+   font-size: large;
+   background-color: aliceblue;
+  
+}
+
+.header{
+  text-align: center;
+  margin: auto;   
+}
+
+h2{
+    color:#0066b2; 
+}
+
+
+.fa-hand-o-right{
+    font-size: 35px;
+    color:#0066b2;
+}
+.fa{
+  padding-right: 3px;
+}
