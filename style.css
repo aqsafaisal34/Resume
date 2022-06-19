@@ -1,7 +1,12 @@
 body{
    font-size: large;
-   background-color: aliceblue;
+   background-color: grey;
   
+}
+.resume{
+   width: 700px;
+   margin: auto;
+   background-color: white;
 }
 
 .header{
